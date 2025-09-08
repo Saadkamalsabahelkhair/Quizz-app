@@ -43,6 +43,7 @@ main .header {
     background-color: white;
     font-weight: bold;
     text-align: left;
+    color: black;
 }
 .next {
     border: none;
